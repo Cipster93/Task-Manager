@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "message": "Learn Basic JavaScript Syntax",
+    "status": "Completed",
+    "title": "JavaScript Syntax",
+    "dueDate": "2024-11-15",
+    "details": "Explore the basic syntax of JavaScript, including variables, functions, and operators."
+  },
+  {
+    "id": "2",
+    "message": "Create a Simple Calculator in JavaScript",
+    "status": "Not started",
+    "title": "Calculator",
+    "dueDate": "2024-11-20",
+    "details": "Build a simple calculator app that can add, subtract, multiply, and divide numbers."
+  },
+  {
+    "id": "3",
+    "message": "Practice with Loops and Conditionals",
+    "status": "In progress",
+    "title": "Loops & Conditionals",
+    "dueDate": "2024-11-25",
+    "details": "Create a program that uses loops and conditionals to print the multiplication table for a number."
+  },
+  {
+    "id": "4",
+    "message": "Learn About Arrays and Objects",
+    "status": "Not started",
+    "title": "Arrays & Objects",
+    "dueDate": "2024-12-01",
+    "details": "Learn how to store and manipulate data using arrays and objects in JavaScript."
+  },
+  {
+    "id": "5",
+    "message": "Create a Todo List in React",
+    "status": "Completed",
+    "title": "React Todo List",
+    "dueDate": "2024-12-05",
+    "details": "Build a simple Todo List application in React where users can add, edit, and delete tasks."
+  },
+  {
+    "id": "6",
+    "message": "Learn React JSX Syntax",
+    "status": "Not started",
+    "title": "JSX Syntax",
+    "dueDate": "2024-12-10",
+    "details": "Understand how JSX works in React and how to write JavaScript code inside HTML-like structures."
+  },
+  {
+    "id": "7",
+    "message": "Build a Counter App in React",
+    "status": "In progress",
+    "title": "Counter App",
+    "dueDate": "2024-12-15",
+    "details": "Create a simple counter app that increments and decrements the counter using React state."
+  },
+  {
+    "id": "8",
+    "message": "Learn How to Handle Events in React",
+    "status": "Not started",
+    "title": "Event Handling in React",
+    "dueDate": "2024-12-20",
+    "details": "Learn how to handle events such as clicks, form submissions, and input changes in React."
+  },
+  {
+    "id": "9",
+    "message": "Create a Basic React Form",
+    "status": "Not started",
+    "title": "React Form",
+    "dueDate": "2024-12-25",
+    "details": "Build a basic form using React with controlled components for input handling."
+  },
+  {
+    "id": "10",
+    "message": "Learn State and Props in React",
+    "status": "Completed",
+    "title": "State & Props in React",
+    "dueDate": "2025-01-01",
+    "details": "Learn the difference between state and props in React and how they are used to manage data."
+  },
+  {
+    "id": "11",
+    "message": "Learn About React Lifecycle Methods",
+    "status": "Not started",
+    "title": "React Lifecycle",
+    "dueDate": "2025-01-10",
+    "details": "Explore React lifecycle methods like `componentDidMount` and `componentWillUnmount` for managing side effects."
+  },
+  {
+    "id": "12",
+    "message": "Build a Simple Weather App with React",
+    "status": "Not started",
+    "title": "Weather App",
+    "dueDate": "2025-01-15",
+    "details": "Create a weather app that fetches data from a weather API and displays the current weather for a selected city."
+  },
+  {
+    "id": "13",
+    "message": "Learn About JavaScript Functions and Scope",
+    "status": "In progress",
+    "title": "JavaScript Functions",
+    "dueDate": "2025-01-20",
+    "details": "Understand how functions work in JavaScript and the concept of function scope."
+  },
+  {
+    "id": "14",
+    "message": "Create a Shopping Cart in React",
+    "status": "Completed",
+    "title": "Shopping Cart",
+    "dueDate": "2025-01-25",
+    "details": "Build a simple shopping cart application where users can add items to the cart and view the total price."
+  },
+  {
+    "id": "15",
+    "message": "Build a React Timer App",
+    "status": "Not started",
+    "title": "Timer App",
+    "dueDate": "2025-02-01",
+    "details": "Create a timer app using React that can start, pause, and reset a timer."
+  }
+]
